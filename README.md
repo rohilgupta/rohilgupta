@@ -9,7 +9,6 @@
 &nbsp;
 <a href="https://www.instagram.com/rohil.gupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohilgupta" height="40" width="40" /></a>
 <a href="https://www.instagram.com/rohil.gupta" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="rohilgupta" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/rohilgupta" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="rohilgupta" height="30" width="40" /></a>
 &nbsp;
 
 
