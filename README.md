@@ -4,7 +4,7 @@
 
    
 <a href="https://www.linkedin.com/in/rohil-gupta27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohilgupta27" height="30" width="40" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <!--<a href="https://twitter.com/rohilgupta27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohilgupta27" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/rohil.gupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohilgupta" height="40" width="40" /></a>&nbsp;&nbsp;-->
