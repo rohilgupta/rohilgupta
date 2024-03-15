@@ -1,4 +1,21 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohilgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rohilgupta" /> </p>
+<h1 align="center">Hello 👋, I'm Rohil Gupta</h1>
+<!-- <p align="center">A passionate developer.</p> -->
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patidar-arpit&label=Profile%20views&color=0e75b6&style=flat" alt="rohilGupta" /> </p>
+
+- 🌱 I’m currently learning **JAVA,C#,React,Node.js, .NET, SpringBoot at CDAC ACTS Pune**
+
+- 📫 How to reach me **rohilgupta2000@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohilgupta27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohil-gupta" height="30" width="40" /></a>
+</p>
+
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohilgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rohilgupta" /> </p>
 <h1 align="center">Hi 👋, Rohil Gupta here!</h1>
 
 
@@ -40,5 +57,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 📫 How to reach me: rohilgupta2000@gmail.com
+-->
